@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Example WebFlux API Consumer with Webflux framework and the movie db API/Example-WebFlux-API-Consumer-with-Webflux-framework-and-the-movie-db-API/Example-WebFlux-API-Consumer-with-Webflux-framework-and-the-movie-db-API.iml" filepath="$PROJECT_DIR$/Example WebFlux API Consumer with Webflux framework and the movie db API/Example-WebFlux-API-Consumer-with-Webflux-framework-and-the-movie-db-API/Example-WebFlux-API-Consumer-with-Webflux-framework-and-the-movie-db-API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ExampleWebFlux.iml" filepath="$PROJECT_DIR$/.idea/ExampleWebFlux.iml" />
+    </modules>
+  </component>
+</project>
